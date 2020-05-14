@@ -15,6 +15,7 @@
       "disabletlsv1_2": "",
       "disabletlsv1_3": "",
       "sslmode": "",
+      "proxy_bind": "on",
       "haproxy_ssl_link": ""
     }
   ]
